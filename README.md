@@ -1,5 +1,8 @@
 # Health-Harvest
 "Health Harvest Specialist" project comes from the growing need for accessible, comprehensive, and user-friendly nutritional information about fruits and vegetables.
+
+![Screenshot 2024-08-04 220245](https://github.com/user-attachments/assets/1770d5bc-0e65-4e36-ae00-6df2988f63b1)
+
 ## Inspiration
 To be successful in life and happy with your family- health play a vital part in our life. To improve our health, we rely on the green vegetables, fruits, and fibers. People has to search for different website or sources to understand its benefits, drawback, who can it, who can't it. All the foods are not suitable for everyone. In order to overcome these hurdles, we motivated to create an app on **Health harvest specialist** using **streamlit tool**. **We aimed to create a tool that not only classifies produce but also educates users about the health benefits and dietary guidelines associated with each item**. The goal is to help people make informed choices about their diet and enhance their overall well-being.
 
