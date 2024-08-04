@@ -32,9 +32,13 @@ streamlit run app.py
 
 ![Screenshot 2024-08-04 232409](https://github.com/user-attachments/assets/add474b5-35c2-411a-b6d2-40d030b528a4)
 
+![Screenshot 2024-08-04 234812](https://github.com/user-attachments/assets/63a711d3-f4c0-41b1-b335-2600bd59b040)
 
 
+![Screenshot 2024-08-04 235025](https://github.com/user-attachments/assets/3b268eb5-0c2b-48af-8a22-0e59e7ba08c3)
 
+
+![Screenshot 2024-08-04 235123](https://github.com/user-attachments/assets/0c679554-ee08-40e7-b6a9-c494a3b664b1)
 
 ## watch on youtube
 https://youtu.be/HDnEInZ0o8I
