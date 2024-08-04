@@ -23,3 +23,5 @@ We learn detail layers in the pytorch, usage of Google Text-to-Speech, audio con
 So there is 36 classes but i searched for some other fiber and healthy items but there is no enough dataset on it. so we are planning to add some extra nutrition items, food varieties in future.  Make all this as **One Stop app for nutrition**
 ## How to run
 streamlit run app.py
+![image](https://github.com/user-attachments/assets/a5d9db4e-5e2e-4cfb-a75e-e04c079aba99)
+
