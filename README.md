@@ -24,4 +24,17 @@ So there is 36 classes but i searched for some other fiber and healthy items but
 ## How to run
 streamlit run app.py
 ![image](https://github.com/user-attachments/assets/a5d9db4e-5e2e-4cfb-a75e-e04c079aba99)
+![Screenshot 2024-08-04 232335](https://github.com/user-attachments/assets/d6fa7722-44eb-4a8d-9ca0-6e3d7ba929ef)
 
+## Evaluation
+
+![Screenshot 2024-08-04 232357](https://github.com/user-attachments/assets/a7d96673-d77b-4220-88f6-d8cd0b784590)
+
+![Screenshot 2024-08-04 232409](https://github.com/user-attachments/assets/add474b5-35c2-411a-b6d2-40d030b528a4)
+
+
+
+
+
+## watch on youtube
+https://youtu.be/HDnEInZ0o8I
