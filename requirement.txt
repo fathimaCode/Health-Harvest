@@ -1,0 +1,3 @@
+streamlit-navigation-bar
+streamlit
+torchvision
