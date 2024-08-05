@@ -47,4 +47,4 @@ streamlit run app.py
 ![Screenshot 2024-08-04 235123](https://github.com/user-attachments/assets/0c679554-ee08-40e7-b6a9-c494a3b664b1)
 
 ## watch on youtube
-https://youtu.be/HDnEInZ0o8I
+[https://youtu.be/HDnEInZ0o8I](https://youtu.be/4m7tihTaZtU?si=NPjMjOyCwEnv3iGj)
