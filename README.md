@@ -21,6 +21,10 @@ we use pytorch to create simple cnn which produce 93% accuracy with in 10 epoch.
 We learn detail layers in the pytorch, usage of Google Text-to-Speech, audio conversion. The streamlit is new for us.
 ## What's next for Health Harvest Specialist
 So there is 36 classes but i searched for some other fiber and healthy items but there is no enough dataset on it. so we are planning to add some extra nutrition items, food varieties in future.  Make all this as **One Stop app for nutrition**
+## how to set it up
+1. Intitally, we have to create a model file, in order to do that run the training.py file to generate the model file.
+2. once generated place the model file inside your source directory
+3. Then run the streamlit app
 ## How to run
 streamlit run app.py
 ![image](https://github.com/user-attachments/assets/a5d9db4e-5e2e-4cfb-a75e-e04c079aba99)
