@@ -5,6 +5,8 @@
 
 ## Inspiration
 To be successful in life and happy with your family- health play a vital part in our life. To improve our health, we rely on the green vegetables, fruits, and fibers. People has to search for different website or sources to understand its benefits, drawback, who can it, who can't it. All the foods are not suitable for everyone. In order to overcome these hurdles, we motivated to create an app on **Health harvest specialist** using **streamlit tool**. **We aimed to create a tool that not only classifies produce but also educates users about the health benefits and dietary guidelines associated with each item**. The goal is to help people make informed choices about their diet and enhance their overall well-being.
+## Block Diagram
+![hars drawio](https://github.com/user-attachments/assets/a413e299-998d-49c0-90f3-dbaa4e4d2486)
 
 ## What it does
 Initially it will classify the vegetables and fruits. After that it provide nutritional information about the items.  Users receive insights into its health benefits, potential drawbacks, recommended ways to eat it, and essential vitamins and minerals. The application also supports multiple languages, offering translations and audio guides for a diverse audience
